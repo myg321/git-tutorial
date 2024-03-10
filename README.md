@@ -17,3 +17,4 @@
 
 - feature A
 - fix-B 2nd
+- feature C
